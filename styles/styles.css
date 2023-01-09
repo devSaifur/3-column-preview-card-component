@@ -112,10 +112,10 @@ button {
     padding-block: 0.45rem;
     padding-inline: 1.3rem;
     border-radius: 1rem;
-    border-style: none;
+    border: 1px solid;
     margin-top: 2rem;
     cursor: pointer;
-    transition-delay: 0.15s;
+    transition-delay: 0.05s;
 }
 .card-1 > button:hover,
 .card-2 > button:hover,
